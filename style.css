@@ -1,17 +1,17 @@
 table{
-    color: black;
-    background-image: url(https://images.unsplash.com/photo-1570215171424-f74325192b55?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuJTIwYW5kJTIwY29tcHV0ZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80);
+    color: white;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/185/696/989/dark-blur-abstract-minimalism-wallpaper-preview.jpg);
+    
 }
 img{
     width: 75px;
-    height: 75px;
+    height: 65px;
+
 }
 body{
     display: flex;
     justify-content: space-around;
     margin-top: 125px;
-    background-color: black;
-    color: rgb(255, 255, 255);
     font-size: large;  
 }
 
